@@ -1,0 +1,157 @@
+.general{
+    width: 960px;
+    height: 600px;
+  background-color:gray;
+    color: white;
+    
+    background-size: 100%;
+}
+
+.center{
+    text-align: center;
+    padding-top: 15px;
+
+}
+.header{
+    width: 960px;
+    height: 140px;
+      
+}
+
+
+
+ul{
+    list-style: none;
+    
+}
+
+ul li a{
+    color: aqua;
+    text-decoration:none
+}
+
+nav li {
+    float: left;
+    padding: 10px 35px 10px 35px;
+    text-align: center;
+    background-color: red;
+    font-size: large;
+    font-weight: 900;
+    margin-right: px
+        
+}
+nav li:hover{
+    background-color: darkred;
+}
+
+.main{
+    width: 81%;
+    height: 410px;
+    border: 1px solid white;
+    margin-left: 70px;
+    background-color:lightgoldenrodyellow;
+    color: black;
+}
+
+span{
+    font-size: small;
+    color:antiquewhite;
+    font-weight:bolder;
+    font-style: italic;
+}
+
+.td1{
+    
+   background-image: url(image/to.jpg);
+    width: 50%;
+    height: 130px;
+    vertical-align: top;
+    
+    
+   
+}
+.td2{
+    
+   background-image: url(image/maslo.jpg);
+    width: 50%;
+    height: 130px;
+    vertical-align: top;
+    
+    
+   
+}
+.td3{
+    
+   background-image: url(image/himiya.jpg);
+    width: 50%;
+    height: 130px;
+    vertical-align: top;
+    
+    
+   
+}
+.td4{
+    
+   background-image: url(image/access.jpg);
+    width: 50%;
+    height: 130px;
+    vertical-align: top;
+    
+    
+   
+}
+
+td a{
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: large;
+}
+
+
+
+td:hover{
+     box-shadow: 0px 0px 2px 5px;
+}
+
+
+td{
+    
+    padding: 35px;
+    
+}
+table{
+   padding: 4px
+}
+
+
+
+a:hover{
+    color: darkblue;
+    
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

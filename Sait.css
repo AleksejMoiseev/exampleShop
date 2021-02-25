@@ -1,0 +1,95 @@
+.general{
+    width: 960px;
+    height: 600px;
+  background-color: gray;
+    color: white;
+    border: 1px solid white;
+    background-size: 100%;
+}
+
+.center{
+    text-align: center;
+    
+}
+
+.lebl{
+    padding: 15px;
+    float: left;
+}
+.cont{
+    
+  
+    padding-left: 700px
+}
+
+ul{
+    list-style: none;
+    
+}
+
+ul li a{
+    color: aqua;
+    text-decoration:none
+}
+
+nav li {
+    float: left;
+    padding: 10px 35px 10px 35px;
+    text-align: center;
+    background-color: red;
+    font-size: large;
+    font-weight: 900;
+    margin-right: px
+        
+}
+nav li:hover{
+    background-color: darkred;
+}
+
+.main{
+    width: 960px;
+    height: 150px;
+        
+}
+
+.menu{
+    display: block;
+  
+    
+}
+
+.asideleft{
+    width: 500px;
+    height: 400px;
+   
+  float: right;
+    text-align: center;
+    
+    
+}
+.asideright{
+     width: 450px;
+    height: 400px;
+    border: 1px solid grey;
+    text-align: center;
+
+  
+    
+}
+.contact{
+    box-shadow: 0 8px 5px 0,0 6px 10px 0 red ;
+    background-color: aquamarine;
+    color: blue;
+
+}
+
+.contact:hover{
+    background-color: aqua;
+}
+.manager{
+    width: 20%;
+}
+
+p a{
+    text-decoration: none;
+}
